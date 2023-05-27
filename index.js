@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Mở thư ra đi, không có gì phải sợ, t không lừa m đâu =))))"; //Lời mở đầu cho bức thư
-const mainContentLetter = "Tuổi mới dui dẻ, đậu UEH nhóe <3"; //Nội dung của bức thư
+const mainContentLetter = "Tuổi mới chúc m vui vẻ, ngày càng xinh đẹp, và đậu UEH nhóe <3. VỚI LẠI BỚT CHÊ T LỎ LẠI ĐI :)))"; //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
