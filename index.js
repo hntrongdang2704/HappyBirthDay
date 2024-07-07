@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Mở thư ra đi, không có gì phải sợ, t không lừa m đâu =))))"; //Lời mở đầu cho bức thư
-const mainContentLetter = "Tuổi mới chúc m vui vẻ, ngày càng xinh đẹp, và đậu UEH nhóe <3. VỚI LẠI BỚT CHÊ T LỎ LẠI ĐI :)))"; //Nội dung của bức thư
+const contentLetterSrart_actived = "Chúc mừng sinhh nhật bé iu của tui nhaaaa <3"; //Lời mở đầu cho bức thư
+const mainContentLetter = "Tuổi mới chúc bé iu của toi mãi lun xinh đẹp nèee, mãi lun vui vẻ với nụ cườiii xinh trên môii nhé <3. Học gì cũm qua hết. Và mãi luôn nhớ tới tui đó nheee, tui lun sẽ ở bên và trông chờ em mỗi ngày, dù không ở cạnh nhau nhưng tui vẫn sẽ mãi hướng về em đó bé iu à, có gì thì phải nói tui đó biết chưaaaa. Happy Birthday Búnnn"; //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
